@@ -18,4 +18,7 @@ Hinweis: Du kannst auf deinen GitHub-Account verlinken, in dem du passende Markd
 [ramacker](https://github.com/ramacker) -> Gruss und danke fürs Tutorial!, Zusatz for Re-submission.
 [farahzeb](https://github.com/farahzeb) -> Grüße auch von mir :-)  eine Änderung
 [ckruhs](https://github.com/ckruhs) -> Danke für den tollen Kurs :-) - weitere Änderung
-[berndschray] (https://github.com/berndschray/) -> noch mehr Grüße 
+[berndschray] (https://github.com/berndschray/) -> noch mehr Grüße
+
+[LoginFabio] (https://github.com/LoginFabio) -> Grüsse aus der Schweiz!
+
